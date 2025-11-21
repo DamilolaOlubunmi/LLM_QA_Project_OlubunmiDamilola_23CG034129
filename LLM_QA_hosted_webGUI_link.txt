@@ -1,0 +1,11 @@
+﻿Name: Olubunmi Damilola
+Matric Number: 23CG034129
+
+Live URL: https://llm-qa-adedoyin-23cg034019.onrender.com
+GitHub Repository: https://github.com/InvestorDod/LLM_QA_ADEDOYIN_23CG034019
+
+Instructions:
+1. Deploy the application to Render.com
+2. Update this file with the actual live URL
+3. Update this file with your GitHub repository URL
+4. Ensure the repository is public for submission
