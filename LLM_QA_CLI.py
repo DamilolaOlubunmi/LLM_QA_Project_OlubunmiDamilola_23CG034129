@@ -1,8 +1,8 @@
 ﻿#!/usr/bin/env python3
 """
 LLM Question and Answering CLI Application
-Name: Adedoyin Dave4
-Matric No: 23CG034019
+Name: Olubunmi Damilola
+Matric No: 23CG034129
 """
 
 import os
@@ -100,8 +100,8 @@ def main():
     """Main CLI application loop"""
     print(\"=\" * 60)
     print(\"LLM Question and Answering CLI\")
-    print(\"Name: Adedoyin Dave4\")
-    print(\"Matric No: 23CG034019\")
+    print(\"Name:   Olubunmi Damilola\")
+    print(\"Matric No: 23CG034129\")
     print(\"=\" * 60)
     
     # Get API key from environment

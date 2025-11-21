@@ -2,7 +2,7 @@
 Matric Number: 23CG034129
 
 Live URL: https://llm-qa-adedoyin-23cg034019.onrender.com
-GitHub Repository: https://github.com/InvestorDod/LLM_QA_ADEDOYIN_23CG034019
+GitHub Repository: https://github.com/DamilolaOlubunmi/LLM_QA_Project_OlubunmiDamilola_23CG034129
 
 Instructions:
 1. Deploy the application to Render.com
